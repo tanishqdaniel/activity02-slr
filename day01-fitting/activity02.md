@@ -87,7 +87,7 @@ library(tidymodels)
     ## ✖ dplyr::lag()      masks stats::lag()
     ## ✖ yardstick::spec() masks readr::spec()
     ## ✖ recipes::step()   masks stats::step()
-    ## • Use suppressPackageStartupMessages() to eliminate package startup messages
+    ## • Search for functions across packages at https://www.tidymodels.org/find/
 
 ![check-in](../README-img/noun-magnifying-glass.png) **Check in**
 
